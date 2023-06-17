@@ -2,4 +2,8 @@
 Some Description!
 
 ## Subheader
-Watch tutorial youTuber 
+Watch tutorial youTuber
+
+## Local Development
+
+1. Open index.html in your browser
