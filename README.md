@@ -4,6 +4,6 @@ Some description!
 ## Subheader
 Watch tutorial in video
 
-## Local development
+## Local development changed
 
 1. Open index.html in your browser
